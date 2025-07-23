@@ -64,7 +64,6 @@ const Header: React.FC = () => {
       'Tracksuits & Hoodies': 'tracksuits-hoodies',
       'T-Shirts & Golfers': 'tshirts-golfers',
       'Jackets': 'school-jackets',
-      'Matric Jackets': 'matric-jackets',
       'Corporate Wear': 'corporate',
       'Fitness Gear': 'fitness',
       'Socks': 'socks',

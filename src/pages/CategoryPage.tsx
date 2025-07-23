@@ -15,7 +15,7 @@ const CategoryPage: React.FC = () => {
   const categoryMap: { [key: string]: string } = {
     'school-team-sports': 'School & Team Sports',
     'other-sports-clubs': 'Other Sports & Clubs', 
-    'schoolwear-matric': 'Schoolwear & Matric Apparel',
+    'schoolwear-matric': 'Schoolwear & Apparel',
     'corporate-staff': 'Corporate & Staff Apparel',
     'gym-fitness': 'Gym & Fitness Apparel',
     'accessories-branding': 'Accessories & Branding'

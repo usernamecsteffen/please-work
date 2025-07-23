@@ -18,7 +18,7 @@ const ServicesPage: React.FC = () => {
       features: ['Bulk orders made easy', 'Durable + professional looks', 'In-house embroidery & printing'],
       ctaText: 'Request Pricing',
       ctaLink: '/contact',
-      image: 'https://images.pexels.com/photos/8112200/pexels-photo-8112200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+      image: '/corporate-puffer-short-frontback.png'
     },
     {
       title: 'Fitness Gear',
@@ -26,7 +26,7 @@ const ServicesPage: React.FC = () => {
       features: ['Custom designed to your brand', 'Performance-tested fabric', 'Perfect for gyms, coaches, and teams'],
       ctaText: 'View Styles',
       ctaLink: '/contact',
-      image: 'https://images.pexels.com/photos/4761779/pexels-photo-4761779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+      image: '/gym-shorts-frontback.png'
     }
   ];
   

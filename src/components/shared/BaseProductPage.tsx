@@ -213,17 +213,17 @@ const BaseProductPage: React.FC<BaseProductPageProps> = ({
             {[
               {
                 title: 'School Hoodie',
-                image: '/school-hoodie.png',
+                image: '/hoodie-gym-frontback.png',
                 path: '/products/school-hoodie'
               },
               {
                 title: 'Gym T-Shirt',
-                image: '/gym-shirt-frontback.png',
+                image: '/rugby-jersey-frontback.png',
                 path: '/products/gym-shirt'
               },
               {
                 title: 'Corporate Shirt',
-                image: '/corporate-shirt-frontback.png',
+                image: '/rugby-jersey-frontback.png',
                 path: '/products/corporate-shirt'
               }
             ].map((product, index) => (
